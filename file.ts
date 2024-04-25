@@ -1,1 +1,3 @@
-let tempVar;
+let tempVar='Hello';
+
+console.log(tempVar)
